@@ -95,7 +95,7 @@ function ready(){
 //   "scotch","septic","sickness","siphon","skunk","sniper","snowy","soccer","sociopath","spam",
 //   "span","spin","sure","tavern","taxes","teach","team","tetanus","tether","that","thin","think",
 //   "tick","ticklish","under","unicorns","union","unreal","use","utah","vaccine","vampire","verse",
-//   "violin","virus","viscosities","voice","vote","war","wash","wasp","watch","water","what","when",
+//   "violin","virus","	","voice","vote","war","wash","wasp","watch","water","what","when",
 //   "who","wife","wise","witch","with","won","wonder","wonky","yams","yards","yarn","yikes","you",
 //   "youth","yucky"
 // ]
